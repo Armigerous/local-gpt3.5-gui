@@ -12,7 +12,7 @@ Local ChatGPT 3.5 is a Python program that provides a graphical user interface (
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/local-chatgpt-3.5.git
+git clone https://github.com/Armigerous/local-gpt3.5-gui.git
 
 2. Install PySimpleGUI:
 
